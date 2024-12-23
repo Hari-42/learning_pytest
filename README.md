@@ -23,5 +23,8 @@ This project is both a learning opportunity for my brother and a chance for me t
    Learn and apply pytest to automate solution validation and streamline the process of teaching programming.
 
 ---
+first learning unit is done you can test it out.
+
+remember to install pytest before you test the files
 
 still in development
