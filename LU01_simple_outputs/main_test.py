@@ -1,5 +1,5 @@
 from unittest.mock import patch
-from simple_outputs import main
+from LU01_simple_outputs import main
 
 def test_output():
     result = main.output()
